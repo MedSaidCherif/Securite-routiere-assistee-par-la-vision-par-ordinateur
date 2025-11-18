@@ -1,0 +1,29 @@
+# ==== Python ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ==== Environnements ====
+.venv/
+.env
+.ipynb_checkpoints/
+
+# ==== Données et sorties ====
+data/frames/
+data/raw_videos/
+data/annotations/
+outputs/
+experiments/
+runs/
+logs/
+
+# ==== Système / IDE ====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

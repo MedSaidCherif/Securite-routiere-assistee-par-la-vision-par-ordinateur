@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['car-license-plate']
+
+roboflow:
+  workspace: adel-hachicha-fiyf1
+  project: tunisian-license-plate
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/adel-hachicha-fiyf1/tunisian-license-plate/dataset/2

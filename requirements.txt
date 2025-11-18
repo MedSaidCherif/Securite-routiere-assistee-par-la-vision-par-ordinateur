@@ -1,0 +1,16 @@
+# ==== Core ====
+numpy
+pandas
+opencv-python
+matplotlib
+
+# ==== Deep Learning ====
+torch
+torchvision
+
+# ==== Detection (YOLOv8) ====
+ultralytics
+
+# ==== Utilitaires ====
+tqdm
+pyyaml
